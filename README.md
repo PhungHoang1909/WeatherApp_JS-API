@@ -1,1 +1,1 @@
-# WeatherApp_VanillaJS-API
+# WeatherApp_ReactJS-API
