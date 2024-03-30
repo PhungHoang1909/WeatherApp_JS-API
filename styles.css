@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background-color: hsl(0, 0%, 95%);
+    background-color: #FBF3D5;
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -33,7 +33,7 @@ button[type="submit"]{
 }
 
 button[type="submit"]:hover{
-    background-color: #f3ba95;
+    background-color: #f3ac7d;
 }
 
 .card{
